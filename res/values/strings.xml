@@ -9055,4 +9055,9 @@
 
     <!-- Rom version -->
     <string name="rom_version_title">KAOSP version</string>
+
+    <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Enable Pixel navbar animation</string>
+    <string name="pixel_navbar_anim_summary">Requires a SystemUI restart</string>
+
 </resources>

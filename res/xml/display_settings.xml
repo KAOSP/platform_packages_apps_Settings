@@ -120,6 +120,12 @@
         android:title="@string/device_theme"
         android:summary="@string/summary_placeholder" />
 
+    <com.android.settings.custom.preferences.SystemSettingSwitchPreference
+        android:key="pixel_nav_animation"
+        android:title="@string/pixel_navbar_anim_title"
+        android:summary="@string/pixel_navbar_anim_summary"
+        android:defaultValue="true" />
+
     <Preference
         android:key="vr_display_pref"
         android:title="@string/display_vr_pref_title"
